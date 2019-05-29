@@ -20,6 +20,9 @@ git push -u origin master
 ## Notice
 
 * sol.pdf ... ToothGrowth 그래프 과제 (3주차)해설서
+* solution.pdf ... (deprecated)
+* day2-0.pdf ... 2주차 수업 슬라이드
+* day3-y.pdf ... 3주차 수업 슬라이드
 * day4-02.pdf ... 마지막(4주차) 수업 슬라이드
 * docQ.pdf ...  마지막 평가과제
 * solQ.pdf ... 마지막 평가과제 모범답안 작성법
